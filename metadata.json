@@ -1,0 +1,6 @@
+{
+  "name": "长篇小说设定和细纲APP",
+  "description": "面向中长篇小说创作的可视化世界观设定集数据库、设定深度分析诊断、章节细纲节奏规划与剧情转折推演工作台，支持一键清空与多项目快速切换。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
